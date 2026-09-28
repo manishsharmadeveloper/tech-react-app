@@ -10,5 +10,5 @@ export default defineConfig({
   // server: {
   //   allowedHosts: ['55be-103-57-187-162.ngrok-free.app']
   // }
-  base: '/tech-react-app',
+  base: '/tech-react-app/',
 })
