@@ -6,7 +6,7 @@ import WebContextProvider from "./context/WebContext.jsx";
 import { BrowserRouter } from "react-router-dom";
 
 createRoot(document.getElementById("root")).render(
-  <BrowserRouter basename="/tech-react-app">
+  <BrowserRouter basename="/tech-react-app/">
     <WebContextProvider>
       <App />
     </WebContextProvider>
